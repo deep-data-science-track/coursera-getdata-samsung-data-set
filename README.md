@@ -1,7 +1,7 @@
 # coursera-getdata-samsung-data-set
-Getting and cleaning the UCI HAR data set
+Getting and cleaning the UCI HAR data set.
 
-The repository contains the run_analysis.R script which needs to be tun from an R console.
+The repository contains the run_analysis.R script which needs to be run from an R console.
 
 Requirements for running the script:
 - Package "reshape" needs to be installed in R (provides the melting/casting functionality)
