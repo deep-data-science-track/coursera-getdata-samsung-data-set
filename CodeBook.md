@@ -1,7 +1,9 @@
 # Code Book: Cleaning and Extracting Data from Human Activity Recognition Using Smartphones Data Set
 
 **Draft Code Book**
+
 February 22, 2015
+
 Code Book prepared by Deep Bhattacharya, based on the data set published [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Steps
